@@ -1,5 +1,7 @@
-<h1 align="center">Hola peeps 👋, I'm Krushang Dalwadi</h1>
+<h1 align="center">Hola peeps 👋, I'm Krushang Dalwadi here</h1>
 <h3 align="center">A passionate Oracle Consultant from India</h3>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krushang2112" alt="krushang2112" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/krushang_2112" target="blank"><img src="https://img.shields.io/twitter/follow/krushang_2112?logo=twitter&style=for-the-badge" alt="krushang_2112" /></a> </p>
 
@@ -21,5 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krushang2112&show_icons=true&locale=en&layout=compact" alt="krushang2112" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krushang2112&show_icons=true&locale=en" alt="krushang2112" /></p>
-
-
