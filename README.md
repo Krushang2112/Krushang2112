@@ -21,3 +21,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krushang2112&show_icons=true&locale=en&layout=compact" alt="krushang2112" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krushang2112&show_icons=true&locale=en" alt="krushang2112" /></p>
+
+file:///E:/Mastek%20Task/animated-man-computer-coding-nae6mec378lsg1i3.gif
