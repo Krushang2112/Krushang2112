@@ -1,4 +1,4 @@
-<h1 align="center">Hola peeps 👋, I'm Krushang Dalwadi here</h1>
+<h1 align="center">Hola peeps 👋, I'm Krushang Dalwadi</h1>
 <h3 align="center">A passionate Oracle Consultant from India</h3>
 
 <p align="left"> <a href="https://twitter.com/krushang_2112" target="blank"><img src="https://img.shields.io/twitter/follow/krushang_2112?logo=twitter&style=for-the-badge" alt="krushang_2112" /></a> </p>
