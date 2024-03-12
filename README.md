@@ -1,4 +1,4 @@
-<h1 align="center">Hola peeps 👋, I'm Krushang Dalwadi here</h1>
+<h1 align="center">Hola peeps 👋, Krushang Dalwadi here</h1>
 <h3 align="center">A passionate Oracle Consultant from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krushang2112" alt="krushang2112" /></a> </p>
